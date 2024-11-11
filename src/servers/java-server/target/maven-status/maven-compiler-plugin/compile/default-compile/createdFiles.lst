@@ -1,0 +1,7 @@
+com\server\javaserver\CorsConfig.class
+com\server\javaserver\UserController.class
+com\server\javaserver\GlobalExceptionHandler.class
+com\server\javaserver\JavaServerApplication.class
+com\server\javaserver\ResourceNotFoundException.class
+com\server\javaserver\User.class
+com\server\javaserver\Hour.class
