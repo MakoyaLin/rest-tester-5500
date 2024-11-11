@@ -27,7 +27,7 @@
 
    ```sh
    mvn clean package
-   java -jar target/java-server.jar
+   java -jar target/java-server-0.0.1-SNAPSHOT.jar
    ```
 
 1. The server will start on port `5003`. You can verify that the server is running by accessing the following URL in your browser or using a tool like `curl`:
